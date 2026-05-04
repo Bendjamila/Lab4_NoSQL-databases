@@ -14,7 +14,15 @@
 - Optimiser les performances d'une base NoSQL
 
 ---
+## 🌐 Course Website
+👉 **[Lab 4 — NoSQL Databases](https://bendjamila.github.io/Lab4_NoSQL-databases/)**
 
+---
+
+# 📦 Chapitre 4 — Bases de Données NoSQL
+### Travaux Pratiques — GitHub Classroom
+...
+---
 ## 🗂️ Structure du Repository
 
 ```
